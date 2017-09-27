@@ -1,5 +1,5 @@
 # DeepLearningNotes
-Authors: hongweiyi, chaopengzhang
+Authors: HongweiYi, ChaopengZhang
 
 Started from: 2017.09.27
 
