@@ -5,8 +5,7 @@ Started from: 2017.09.27
 
 In this workspace, we will share our knowledge about Deep Learning, Machine Learning, Computer Vision, Computer graphics and some useful tools. Cheers up!!!
 
-我们希望开发一个能够分享我们专业知识，研究经验同时记录我们学习成长之路的一个平台。今后我们每周都会不定期更新我们的工作区。DeepLearning, ComputerVision由鸿伟主要分享，主要分享《Deep Learning》红宝书的读书笔记和学习重点，standford cs231中课程内容的总结和思考，计算机视觉领域几个重要研究方向的现状和研究经验。MachineLearning和ComputerGraphics由潮鹏主要分享，主要分享吴恩达Machine Learning课程的笔记和总结，分析解决实际问题的实践经验和计算机图形学领域的基础知识和基本算法。最后我们会在Tools内分享深度学习框架的实践经验，如caffe，tensorflow；机器学习库，如sklearn，pandas；数据处理和可视化的基本库，如numpy，matplotlib，pil；linux下python安装库的管理平台，如annoconda；
-
+我们希望开发一个能够分享我们专业知识，研究经验同时记录我们学习成长之路的一个平台。今后我们每周都会不定期更新我们的工作区。
 
 ## 目录
 * __DeepLearning__：主要分享关于深度学习业内圣经“Deep Learning"的重点和笔记
